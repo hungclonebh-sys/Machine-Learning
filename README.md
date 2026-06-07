@@ -18,7 +18,7 @@ Dự án này có thể ứng dụng trong:
 
 ---
 
-## 🧠 Nguyên lý hoạt động (How the System Works)
+##  Nguyên lý hoạt động (How the System Works)
 
 ### 🔹 Thu thập & Tiền xử lý dữ liệu
 Dữ liệu hình ảnh được chia làm hai nhãn: có lửa (`fire`) và không có lửa (`non_fire`), sau đó được chuẩn hóa kích thước để đưa vào mạng CNN.
