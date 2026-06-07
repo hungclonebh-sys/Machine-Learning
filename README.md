@@ -22,6 +22,8 @@ Dự án này có thể ứng dụng trong:
 
 ### 🔹 Thu thập & Tiền xử lý dữ liệu
 Dữ liệu hình ảnh được chia làm hai nhãn: có lửa (`fire`) và không có lửa (`non_fire`), sau đó được chuẩn hóa kích thước để đưa vào mạng CNN.
+<img width="1661" height="802" alt="image" src="https://github.com/user-attachments/assets/3a28b324-f527-410a-8221-f19d9e4a63b6" />
+
 
 ### 🔹 Mô hình CNN (Convolutional Neural Network)
 Hệ thống sử dụng mạng trích xuất đặc trưng tích chập (CNN) được xây dựng bằng TensorFlow/Keras nhằm nhận diện các pattern của ngọn lửa (màu sắc, hình dáng, độ sáng).
