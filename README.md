@@ -21,11 +21,13 @@ Dự án này có thể ứng dụng trong:
 ##  Nguyên lý hoạt động (How the System Works)
 
 ### 🔹 Thu thập & Tiền xử lý dữ liệu
-- Dữ liệu hình ảnh được chia làm hai nhãn: có lửa (`fire`) và không có lửa (`non_fire`), sau đó được chuẩn hóa kích thước để đưa vào mạng CNN.
+- Dữ liệu hình ảnh được chia làm hai nhãn: có lửa (`fire`) - 1600 image và không có lửa (`non_fire`) - 1400 image , sau đó được chuẩn hóa kích thước để đưa vào mạng CNN.
 - Datasetfire:
 - <img width="1339" height="666" alt="image" src="https://github.com/user-attachments/assets/b24cb575-9209-482b-8235-643a2338cde9" />
 - Datasetfire tự tạo:
 - <img width="1352" height="493" alt="image" src="https://github.com/user-attachments/assets/e59d0749-6994-4377-82ca-be68415af12b" />
+- Datasetfire non_fire:
+- <img width="1663" height="711" alt="image" src="https://github.com/user-attachments/assets/459a613a-406b-4857-a721-dc48f692fdd5" />
 
 
 
